@@ -5,7 +5,7 @@ In this repository, I am accumulating my Data Analytics Projects.
 
 ## Following are my projects in SQL, Python, Tableau, and PowerBI
 
-**You can take a look at my linkedin profile here:** https://www.linkedin.com/in/ruhularahi/
+**You can take a look at my linkedin profile here:** ![Ruhul Amin](https://www.linkedin.com/in/ruhularahi/)
 
 ***
 
