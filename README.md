@@ -10,6 +10,8 @@ In this repository, I am accumulating my Data Analytics Projects.
 ***
 
 **1. Tableau**
+
+See my Tableau Public Profile [Here](https://public.tableau.com/app/profile/ruhul.amin2756)
 * Cancer Diagonosis Dashboard
 
   _See on Tableau Public: [Dashboard](https://public.tableau.com/app/profile/ruhul.amin2756/viz/CancerDiagnosisCosts/CancerDiagnosisDashboard)_.
