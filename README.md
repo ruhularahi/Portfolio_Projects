@@ -22,5 +22,5 @@ In this repository, I am accumulating my Data Analytics Projects.
 
 * COVID-19 Cases
   
-  _See on Tableau Public: [Dashboard]()
- 
+   _See on Tableau Public: [Dashboard](https://public.tableau.com/app/profile/ruhul.amin2756/viz/WorldwideCOVID-19Cases_16595901337400/Dashboard1)_.
+ ![Dashboard 1](https://user-images.githubusercontent.com/108262435/209335028-1d3f0195-88df-4e90-ad89-5a680c644911.png)
