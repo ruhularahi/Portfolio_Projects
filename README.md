@@ -8,11 +8,22 @@ In this repository, I am accumulating my Data Analytics Projects.
 **You can take a look at my linkedin profile here:** ![Ruhul Amin](https://www.linkedin.com/in/ruhularahi/)
 
 ***
-**1. Python**
+### 1. Python
 
-**2. SQL**
+**Project Title: Crude Oil Forecasting** ![See the Project Here](https://github.com/ruhularahi/Portfolio_Projects/blob/main/Crude_Oil_Production_Forecasting.ipynb)\
+**Project Details:** The goal of the project was to build a time series forecasting model using AR, MA, ARMA, and ARIMA models<br/>to forecast oil production. The dataset consisted of time series data on US oil production from 1992 to 2018.
+- Split the dataset into training and test sets, with data from 1992 to 2012 used for training while the remaining years used for testing. 
+- Checked for stationarity in the data by looking for seasonality, heteroskedasticity, and autocorrelation. Used differencing methods to make the dataset stationary. 
+- Built AR, MA, ARMA, and ARIMA models and found that the ARIMA (2,3,2) model gave the best results.
 
-**3. Tableau**
+### 2. SQL
+
+**Project Title: Getting Insights for a Japanese Restaurant named "Danny's Dinner"** ![See the Project Here](https://github.com/ruhularahi/Portfolio_Projects/blob/main/Danny's%20Dinner.sql)\
+**Project Details:** Danny collected some data from it's day to operations and wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
+- Created the schema for three differnt tables.
+- Provide query necessary to get the insights from the data, for instance "If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?"
+
+### 3. Tableau
 
 See my Tableau Public Profile [Here](https://public.tableau.com/app/profile/ruhul.amin2756)
 * Cancer Diagonosis Dashboard
