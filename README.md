@@ -27,7 +27,7 @@ In this repository, I am accumulating my Data Analytics Projects.
 **Project Title: Getting Insights for a Japanese Restaurant named "Danny's Dinner"** [See the Project Here](https://github.com/ruhularahi/Portfolio_Projects/blob/main/Danny's%20Dinner.sql)\
 **Project Details:** Danny collected some data from it's day to operations and wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 - Created the schema for three differnt tables.
-- Provide query necessary to get the insights from the data, for instance "If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?"
+- Created query necessary to get the insights from the data, for instance "If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?"
 
 ### 3. Tableau
 
