@@ -8,8 +8,11 @@ In this repository, I am accumulating my Data Analytics Projects.
 **You can take a look at my linkedin profile here:** ![Ruhul Amin](https://www.linkedin.com/in/ruhularahi/)
 
 ***
+**1. Python**
 
-**1. Tableau**
+**2. SQL**
+
+**3. Tableau**
 
 See my Tableau Public Profile [Here](https://public.tableau.com/app/profile/ruhul.amin2756)
 * Cancer Diagonosis Dashboard
