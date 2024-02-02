@@ -4,3 +4,4 @@
 ##### Learning Outcomes:
 - Created Views and View Indexes
 - Created Functions (Scaler and Table Valued Functions)
+- Created Stored Procedures and Triggers
