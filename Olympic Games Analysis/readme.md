@@ -4,7 +4,7 @@ Created a database Olympic Database using PostgreSQL consisting of athletes, sum
 **Learning Outcomes:**
 -  Used Data Definition Language like CREATE, ALTER, DROP
 -  Inserted data using COPY command from databases
--  Created complex queries like subquereis, common table expression, horizontal stacking using union, joins, string manipulation to fetch required table or data
+-  Created complex queries like subquereis, common table expression, horizontal stacking using union, joins, and string manipulation to fetch required tables or data
 -  Generated Report
 
 The created E:R Diagram is as follows:
