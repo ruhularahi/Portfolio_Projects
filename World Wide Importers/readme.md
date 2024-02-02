@@ -1,5 +1,6 @@
 #### SQL Project on Wide World Importers
-About the **Datasets** [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
-**Learning Outcomes:**
+##### Datasets Link [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) <br>
+
+##### Learning Outcomes:
 - Created Views and View Indexes
 - Created Functions (Scaler and Table Valued Functions)
