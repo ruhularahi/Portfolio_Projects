@@ -1,4 +1,4 @@
-#### SQL Project on Wide World Importers
+#### SQL Project on Wide World Importers Data
 ##### Datasets Link [WideWorldImporters](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) <br>
 
 ##### Learning Outcomes:
