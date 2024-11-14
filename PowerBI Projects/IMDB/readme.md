@@ -14,7 +14,7 @@ The Power BI dashboard contains the following key visualizations and insights:
 
 1. Key Metrics Cards
 
-- Number of Movies: Total number of movies in the dataset (2,634).
+- Number of Movies: Total number of movies in the dataset (2,632).
 
 - Average Movie Rating: The average rating of all movies (6.45).
 
